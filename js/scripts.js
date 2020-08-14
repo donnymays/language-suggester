@@ -23,6 +23,7 @@ $(document).ready(function() {
       $("#ruby").show();
       $("#css").hide();
       $("#swift").hide();
+      $("#c-sharp").hide();
     };
     
     $(".name").text(nameInput);

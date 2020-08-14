@@ -32,6 +32,10 @@ p, h5 {
   height: auto; 
 }
 
+#os-question {
+  text-align: left;
+}
+
 #css, #swift, #ruby, #c-sharp{
   display: none;
 }
