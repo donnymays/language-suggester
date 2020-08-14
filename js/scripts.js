@@ -9,6 +9,7 @@ $(document).ready(function() {
       $("#css").show();
       $("#swift").hide();
       $("#ruby").hide();
+      $("#c-sharp").hide();
     } else if ( language === 2 && mobileInput === "ios") {
       $("#swift").show();
       $("#css").hide();
