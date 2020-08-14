@@ -26,6 +26,14 @@ p, h5 {
   text-align: center;
 }
 
+.form-control, #name {
+  appearance: none;
+  -moz-appearance:none;
+  -webkit-appearance:none;
+  background-color: #f7f2e7;
+  color: #797a7e;
+}
+
 .interests {
   background-color: #e0ece4;
 }
