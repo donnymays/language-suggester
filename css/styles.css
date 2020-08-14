@@ -3,15 +3,31 @@ body {
   color: #797a7e;
 }
 
+form {
+  padding-top: 50px;
+}
+
 h1 {
   color: #d8d3cd;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+p, h5 {
+  text-align: center;
+}
+
+
+.card-img-top {
+  width: 25%;
+  height: auto; 
 }
 
 #css, #swift, #ruby {
   display: none;
 }
 
-.card-img-top {
-  width: 25%;
-  height: auto;
+#answer {
+  padding-top: 30px;
 }

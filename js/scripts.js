@@ -4,8 +4,6 @@ $(document).ready(function() {
     let language = parseInt($("#interests").val());
     let nameInput = $("input#name").val();
   
-  
-
     if (language === 1) {
       $("#css").show();
       $("#swift").hide();
