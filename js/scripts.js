@@ -5,7 +5,7 @@ $(document).ready(function() {
     let nameInput = $("input#name").val();
   
     if (language === 1) {
-      $("#css").show();
+      $("#css").fadeIn();
       $("#swift").hide();
       $("#ruby").hide();
     } else if ( language === 2) {

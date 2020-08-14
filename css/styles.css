@@ -8,16 +8,24 @@ form {
 }
 
 h1 {
-  color: #d8d3cd;
+  color: #797a7e;
   padding-top: 10px;
   padding-bottom: 30px;
   text-align: center;
 }
 
+.interests {
+  background-color: #e0ece4;
+}
+
+
 p, h5 {
   text-align: center;
 }
 
+.btn {
+  text-align: center;
+}
 
 .card-img-top {
   width: 25%;
@@ -28,6 +36,6 @@ p, h5 {
   display: none;
 }
 
-#answer {
+img, #answer {
   padding-top: 30px;
 }
