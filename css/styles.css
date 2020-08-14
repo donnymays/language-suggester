@@ -26,14 +26,6 @@ p, h5 {
   text-align: center;
 }
 
-.form-control, #name {
-  appearance: none;
-  -moz-appearance:none;
-  -webkit-appearance:none;
-  background-color: #f7f2e7;
-  color: #797a7e;
-}
-
 input[type='radio']:after {
   width: 15px;
   height: 15px;
@@ -60,6 +52,14 @@ input[type='radio']:checked:after {
   display: inline-block;
   visibility: visible;
   border: 2px solid #797a7e;
+}
+
+.form-control, #name {
+  appearance: none;
+  -moz-appearance:none;
+  -webkit-appearance:none;
+  background-color: #f7f2e7;
+  color: #797a7e;
 }
 
 .jumbotron {
