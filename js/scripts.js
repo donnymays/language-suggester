@@ -33,11 +33,5 @@ $(document).ready(function() {
     } else {
       alert("Please enter you name");
     };
-    
-      
-   
-    
-   
-
   });
 });
