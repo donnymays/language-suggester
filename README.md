@@ -10,7 +10,7 @@ _This is a site designed to take information from a user about their programming
 
 ## Setup/Installation Requirements
 
-* _To view this project as a website visit: _
+* _To view this project as a website visit: https://donnymays.github.io/language-suggester/_
 * _To view and/or edit the files for this project:_
 * _Open a command line tool_
 * _Navigate to the desktop (or whatever directory you'd like to save the files) using the cd command_
