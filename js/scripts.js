@@ -4,6 +4,8 @@ $(document).ready(function() {
     let language = parseInt($("#interests").val());
     let nameInput = $("input#name").val();
   
+  
+
     if (language === 1) {
       $("#css").show();
       $("#swift").hide();
@@ -18,6 +20,12 @@ $(document).ready(function() {
       $("#swift").hide();
     };
     $(".name").text(nameInput);
+
+    if (nameInput != "") {
+      $("answer").show();
+    } else {
+      alert("Please enter you name");
+    };
 
   });
 });
