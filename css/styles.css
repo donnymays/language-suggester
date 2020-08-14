@@ -15,7 +15,7 @@ h1 {
 }
 
 hr {
-    border-color: #f7f2e7;
+    border-color: #d8d3cd;
     border-style: dotted none none;
     height: 0;
     width: 10%;
@@ -32,10 +32,15 @@ p, h5 {
 
 .jumbotron {
   margin-top: 30px;
+  background-color: #f7f2e7;
 }
 
 .btn {
   text-align: center;
+}
+
+.card {
+  background-color: #f7f2e7;
 }
 
 .card-img-top {
@@ -46,7 +51,7 @@ p, h5 {
 .footer {
   text-align: center;
   background-color: #797a7e;
-  color: #e0ece4;
+  color: #f7f2e7;
   padding-top: 30px;
   padding-bottom: 30px;
 }
