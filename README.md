@@ -25,7 +25,7 @@ _Please contact Donny Mays at dtmays2@gmail.com with any questions or concerns, 
 
 ## Technologies Used
 
-_This project was built using HTML CSS JavaScript as well as Bootstrap and jQuery frameworks._
+_This project was built using HTML, CSS, & JavaScript as well as Bootstrap and jQuery frameworks._
 
 ### License
 
