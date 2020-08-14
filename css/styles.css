@@ -1,3 +1,8 @@
 #css, #swift, #ruby {
   display: none;
 }
+
+.card-img-top {
+  width: 25%;
+  height: auto;
+}
