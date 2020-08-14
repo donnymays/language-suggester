@@ -6,10 +6,16 @@ $(document).ready(function() {
   
     if (language === 1) {
       $("#css").show();
+      $("#swift").hide();
+      $("#ruby").hide();
     } else if ( language === 2) {
       $("#swift").show();
+      $("#css").hide();
+      $("#ruby").hide();
     } else {
       $("#ruby").show();
+      $("#css").hide();
+      $("#swift").hide();
     };
   
   });
